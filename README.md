@@ -19,8 +19,8 @@ sudo make clean install
 * [x] Center The tags icons
 * [x] Fix the xsetroot script
 
-#Thanks to
+# Thanks to
 
-[connorholyday]("https://github.com/connorholyday") for the kitty config
+[connorholyday](https://github.com/connorholyday) for the kitty config
 
-[siduck]("https://github.com/siduck") for the rofi config
+[siduck](https://github.com/siduck) for the rofi config
